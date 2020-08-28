@@ -1,0 +1,17 @@
+I will create objects for the dogs class, each object will be a dog breed. 
+I tried to get the input from the user and use it as the attributes, the main code will 
+catch these attributes passed by the user and compare to the created instances in order
+to find as precisely as possible the dog breed. The software was created based in the
+most popular dog breeds of the world. 
+
+Data source: https://www.akc.org/expert-advice/dog-breeds/2020-popular-breeds-2019/
+
+I could possibly do this software much more easily, but I wanted to create something with OOP.
+
+fur:  1 = Slight, 2 = Medium, 3 = Voluminous
+ears: 1 = Pointed and up, 2 = Rounded and down
+height: 1 = Tiny, 2 = Medium, 3 = Tall
+length: 1 = Short, 2 = Medium, 3 = Long
+Unique Characteristic 1 and 2: List of characteristics
+
+There's still much to do...
